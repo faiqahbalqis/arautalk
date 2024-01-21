@@ -1,0 +1,16 @@
+.join-button,
+.joined-button {
+    width: 100px; 
+}
+
+.action-col {
+    width: 120px; /* Adjust the width as needed */
+}
+.action-col form {
+    display: inline-block;
+    margin: 0;
+}
+.action-col button {
+    margin: 0 auto;
+}
+
